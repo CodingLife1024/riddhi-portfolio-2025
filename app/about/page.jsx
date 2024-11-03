@@ -28,28 +28,28 @@ const about = {
   info: [
     {
       fieldName: "Name",
-      fieldValue: "Luis Solar",
+      fieldValue: "Riddhidipta Pal",
     },
     {
       fieldName: "Experience",
-      fieldValue: "2+ Years",
+      fieldValue: "3+ Years",
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+1) 786 825 4670",
+      fieldValue: "(+91) 8287871733",
     },
 
     {
       fieldName: "Email",
-      fieldValue: "solarluiso@gmail.com",
+      fieldValue: "riddhidipta2003@gmail.com",
     },
     {
       fieldName: "Nationality",
-      fieldValue: "American",
+      fieldValue: "India",
     },
     {
       fieldName: "Languages",
-      fieldValue: "English, Spanish",
+      fieldValue: "English, Hindi, Bengali",
     },
   ],
 };
